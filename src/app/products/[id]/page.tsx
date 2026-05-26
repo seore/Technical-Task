@@ -50,7 +50,6 @@ export default async function ProductDetailPage({
       <div className="product-detail">
         <div className="product-detail__media">
           {product.imageUrl ? (
-            // eslint-disable-next-line @next/next/no-img-element
             <img src={product.imageUrl} alt="" />
           ) : (
             <span>No image</span>

@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 import { queryProducts } from "@/lib/products";
 import { productQuerySchema } from "@/lib/validation";
 
-export const revalidate = 3600; // 1 hour
+export const revalidate = 3600; 
 
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
