@@ -1,0 +1,202 @@
+[
+  {
+    "id": "p001",
+    "name": "Rose Velvet Lipstick",
+    "brand": "Lumea",
+    "price": 24.0,
+    "description": "A creamy, long-wearing lipstick in a soft rose tone with a velvet matte finish. Infused with shea butter for hydration that lasts.",
+    "tags": ["makeup", "lips", "matte", "rose"],
+    "rating": 4.6,
+    "imageUrl": "https://placehold.co/600x600/png?text=Rose+Velvet"
+  },
+  {
+    "id": "p002",
+    "name": "Hydra Glow Serum",
+    "brand": "Aurelle",
+    "price": 48.5,
+    "description": "A lightweight hyaluronic acid serum that plumps and hydrates skin for an immediate glow. Suitable for all skin types.",
+    "tags": ["skincare", "serum", "hydration", "glow"],
+    "rating": 4.8,
+    "imageUrl": "https://placehold.co/600x600/png?text=Hydra+Glow"
+  },
+  {
+    "id": "p003",
+    "name": "Midnight Bloom Eau de Parfum",
+    "brand": "Noctis",
+    "price": 92.0,
+    "description": "An intoxicating floral fragrance with notes of jasmine, oud, and black amber. Designed for evening wear.",
+    "tags": ["fragrance", "floral", "evening", "rose"],
+    "rating": 4.4,
+    "imageUrl": "https://placehold.co/600x600/png?text=Midnight+Bloom"
+  },
+  {
+    "id": "p004",
+    "name": "Silk Foundation",
+    "brand": "Lumea",
+    "price": 38.0,
+    "description": "A medium-coverage liquid foundation with a satin finish. Buildable, breathable, and available in 30 shades.",
+    "tags": ["makeup", "foundation", "satin"],
+    "rating": 4.3,
+    "imageUrl": "https://placehold.co/600x600/png?text=Silk+Foundation"
+  },
+  {
+    "id": "p005",
+    "name": "Charcoal Clay Mask",
+    "brand": "Aurelle",
+    "price": 22.0,
+    "description": "A purifying clay mask with activated charcoal that draws out impurities and refines pores in 10 minutes.",
+    "tags": ["skincare", "mask", "purifying"],
+    "rating": 4.1,
+    "imageUrl": "https://placehold.co/600x600/png?text=Charcoal+Mask"
+  },
+  {
+    "id": "p006",
+    "name": "Citrus Bloom Body Lotion",
+    "brand": "Verve",
+    "price": 18.0,
+    "description": "A fast-absorbing body lotion with notes of bergamot, neroli, and white musk. Leaves skin soft and lightly scented.",
+    "tags": ["body", "lotion", "citrus"],
+    "rating": 4.0,
+    "imageUrl": "https://placehold.co/600x600/png?text=Citrus+Bloom"
+  },
+  {
+    "id": "p007",
+    "name": "Onyx Eyeliner",
+    "brand": "Lumea",
+    "price": 16.0,
+    "description": "A precision liquid eyeliner with a felt-tip applicator. Waterproof, smudge-proof, and intensely black.",
+    "tags": ["makeup", "eyes", "liner", "waterproof"],
+    "rating": 4.5,
+    "imageUrl": "https://placehold.co/600x600/png?text=Onyx+Liner"
+  },
+  {
+    "id": "p008",
+    "name": "Retinol Renewal Cream",
+    "brand": "Aurelle",
+    "price": 64.0,
+    "description": "An overnight retinol cream that smooths fine lines and resurfaces skin while you sleep. Formulated for sensitive skin.",
+    "tags": ["skincare", "retinol", "anti-aging", "night"],
+    "rating": 4.7,
+    "imageUrl": "https://placehold.co/600x600/png?text=Retinol+Renewal"
+  },
+  {
+    "id": "p009",
+    "name": "Rose Petal Toner",
+    "brand": "Verve",
+    "price": 26.0,
+    "description": "An alcohol-free toner with real rose petal extract. Balances skin and prepares it for serum and moisturiser.",
+    "tags": ["skincare", "toner", "rose"],
+    "rating": 4.2,
+    "imageUrl": "https://placehold.co/600x600/png?text=Rose+Toner"
+  },
+  {
+    "id": "p010",
+    "name": "Solar Bronze Drops",
+    "brand": "Lumea",
+    "price": 32.0,
+    "description": "Liquid bronzer drops that mix into foundation or moisturiser for a custom sun-kissed glow.",
+    "tags": ["makeup", "bronzer", "glow"],
+    "rating": 4.4,
+    "imageUrl": "https://placehold.co/600x600/png?text=Solar+Bronze"
+  },
+  {
+    "id": "p011",
+    "name": "Vetiver & Smoke Cologne",
+    "brand": "Noctis",
+    "price": 78.0,
+    "description": "An earthy unisex cologne with vetiver, smoked cedar, and a hint of bergamot. Cool, grounded, and modern.",
+    "tags": ["fragrance", "woody", "unisex"],
+    "rating": 4.3,
+    "imageUrl": "https://placehold.co/600x600/png?text=Vetiver+Smoke"
+  },
+  {
+    "id": "p012",
+    "name": "Vitamin C Booster",
+    "brand": "Aurelle",
+    "price": 54.0,
+    "description": "A stabilised 15% vitamin C serum that brightens dull skin and evens tone with daily use.",
+    "tags": ["skincare", "serum", "brightening", "vitamin-c"],
+    "rating": 4.6,
+    "imageUrl": "https://placehold.co/600x600/png?text=Vitamin+C"
+  },
+  {
+    "id": "p013",
+    "name": "Cashmere Blush",
+    "brand": "Lumea",
+    "price": 28.0,
+    "description": "A silky powder blush in warm peach. Blends seamlessly for a soft, natural flush.",
+    "tags": ["makeup", "blush", "peach"],
+    "rating": 4.2,
+    "imageUrl": "https://placehold.co/600x600/png?text=Cashmere+Blush"
+  },
+  {
+    "id": "p014",
+    "name": "Sea Salt Hair Mist",
+    "brand": "Verve",
+    "price": 20.0,
+    "description": "A texturising mist that adds beachy waves and grip to any hair type. No stickiness, no crunch.",
+    "tags": ["hair", "texture", "mist"],
+    "rating": 3.9,
+    "imageUrl": "https://placehold.co/600x600/png?text=Sea+Salt+Mist"
+  },
+  {
+    "id": "p015",
+    "name": "Argan Repair Oil",
+    "brand": "Verve",
+    "price": 34.0,
+    "description": "A nourishing hair oil with cold-pressed argan and jojoba. Tames frizz and adds shine without weighing hair down.",
+    "tags": ["hair", "oil", "repair"],
+    "rating": 4.5,
+    "imageUrl": "https://placehold.co/600x600/png?text=Argan+Oil"
+  },
+  {
+    "id": "p016",
+    "name": "Velvet Rose Hand Cream",
+    "brand": "Verve",
+    "price": 14.0,
+    "description": "A rich hand cream with rose extract and shea. Absorbs quickly and leaves hands soft and lightly scented.",
+    "tags": ["body", "hands", "rose"],
+    "rating": 4.3,
+    "imageUrl": "https://placehold.co/600x600/png?text=Hand+Cream"
+  },
+  {
+    "id": "p017",
+    "name": "Iridescent Highlighter",
+    "brand": "Lumea",
+    "price": 30.0,
+    "description": "A finely milled powder highlighter with a multi-dimensional pearl finish. Catches light from every angle.",
+    "tags": ["makeup", "highlighter", "glow"],
+    "rating": 4.6,
+    "imageUrl": "https://placehold.co/600x600/png?text=Highlighter"
+  },
+  {
+    "id": "p018",
+    "name": "Amber Rose Body Oil",
+    "brand": "Noctis",
+    "price": 56.0,
+    "description": "A luxurious dry body oil with amber, rose, and almond. Sinks in instantly and leaves a subtle golden sheen.",
+    "tags": ["body", "oil", "rose", "amber"],
+    "rating": 4.7,
+    "imageUrl": "https://placehold.co/600x600/png?text=Body+Oil"
+  },
+  {
+    "id": "p019",
+    "name": "Daily Mineral SPF 50",
+    "brand": "Aurelle",
+    "price": 36.0,
+    "description": "A weightless mineral sunscreen with zinc oxide. No white cast, no greasy feel — wears beautifully under makeup.",
+    "tags": ["skincare", "spf", "sunscreen", "daily"],
+    "rating": 4.5,
+    "imageUrl": "https://placehold.co/600x600/png?text=SPF+50"
+  },
+  {
+    "id": "p020",
+    "name": "Bare Skin Tinted Balm",
+    "brand": "Lumea",
+    "price": 26.0,
+    "description": "A sheer tinted balm that evens skin tone while hydrating. The barely-there alternative to foundation.",
+    "tags": ["makeup", "tinted", "skin"],
+    "rating": 4.1,
+    "imageUrl": "https://placehold.co/600x600/png?text=Tinted+Balm"
+  }
+]
